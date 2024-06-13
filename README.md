@@ -43,7 +43,7 @@ Here's my repository with a few of my university projects.
   
 -----
 
-## Languajes used in my repositories :smile
+## Languajes used in my repositories 😄
 
 
 - **C++**: 11.44%
