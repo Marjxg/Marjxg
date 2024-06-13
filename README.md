@@ -1,6 +1,7 @@
 ## Hi there 👋
 This is Marjorie Reyes, a Science and Systems Engineer Student.  
-Here's my repository with a few of my university projects.  
+I've been developing for over 4 years in many different programming languages.  
+Here you can find some of my university projects.
 
 -----
   
