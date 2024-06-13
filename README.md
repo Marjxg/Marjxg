@@ -42,4 +42,24 @@ Here's my repository with a few of my university projects.
   </div>
   
 -----
-  
+
+## Languajes used in my repositories :smile
+
+
+- **C++**: 11.44%
+- **Go**: 6.47%
+- **HTML**: 12.45%
+- **Assembly**: 2.74%
+- **Python**: 10.80%
+- **Java**: 28.53%
+- **CSS**: 0.91%
+- **JavaScript**: 8.79%
+- **PHP**: 0.00%
+- **TypeScript**: 8.65%
+- **Yacc**: 2.45%
+- **Lex**: 1.63%
+- **Shell**: 0.06%
+- **C**: 1.92%
+- **Batchfile**: 3.09%
+- **Dockerfile**: 0.08%
+- **Makefile**: 0.01%
