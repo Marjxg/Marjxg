@@ -16,7 +16,7 @@ Here you can find some of my university projects.
 -----
   
 ### Some of my knowledge 🌟
-* Programming languajes
+* Programming languages
   <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" width="40" height="40"/>&nbsp;
@@ -44,23 +44,9 @@ Here you can find some of my university projects.
   
 -----
 
-### Languajes used in my repositories 😄
+### My programming languages 😄
 
 
-- **C++**: 11.44%
-- **Go**: 6.47%
-- **HTML**: 12.45%
-- **Assembly**: 2.74%
-- **Python**: 10.80%
-- **Java**: 28.53%
-- **CSS**: 0.91%
-- **JavaScript**: 8.79%
-- **PHP**: 0.00%
-- **TypeScript**: 8.65%
-- **Yacc**: 2.45%
-- **Lex**: 1.63%
-- **Shell**: 0.06%
-- **C**: 1.92%
-- **Batchfile**: 3.09%
-- **Dockerfile**: 0.08%
-- **Makefile**: 0.01%
+<a href="https://github.com/Marjxg">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Marjxg&layout=compact&langs_count=16&theme=material-palenight&hide_title=true"/>
+</a>
